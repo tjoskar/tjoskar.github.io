@@ -15,7 +15,7 @@ Så vad vill jag automatisera?
 - När man kommer hem ska man inte behövas mötas av mörker. Det skall lysa i lägenheten även om ingen är hemma men samtidigt ska lamporna inte lysa i onödan. Dvs. straxt innan man kommer hem ska hallampan tändas.
 - Jag tycker att det ska vara mörkt i hela lägenheten när man kollar på film. Jag vet att det är lite delad mening om denna uppfattning men jag tycker om känslan som man får när man är på bio; det är totalt mörker i de mörka scenerna och i de ljusa scenerna blir man nästan bländad. Jag glömmer aldrig känslan när jag såg Matrix (revolution eller reloaded) på bio och biosalongen var totalt kolsvart till följd av den dystra och tröstlösa känslan som regissören försökte förmedla, tills nästa scenväxling när hela salongen lystes upp av en förvånansvärt ljus och vit bioduk. Detta är en känsla som jag vill återskapa hemma. När man sedan slutar kolla på filmen ska lamporna tändas igen (förutsatt att solen har gått ner).
 
-Jag har valt att använda mig av tellstick tillsammans med en raspberry pi som står på dygnet runt. Hur man sätter upp detta system kan man läsa [här](/2014/09/06/install-tellstick-on-raspberry-pi.html):
+Jag har valt att använda mig av tellstick tillsammans med en raspberry pi som står på dygnet runt. Hur man sätter upp detta system kan man läsa [här](/2014/09/02/setup-tellstick-on-raspberry-pi.html):
 
 Om vi börjar med att lamporna ska tändas när solen går ner. Man skulle kunna lösa detta genom att ett script kollar om solen har gått ner med jämna mellanrum. Ex:
 

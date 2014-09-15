@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setup Tellstick on Raspberry Pi
+title: Setup Tellstick on a Raspberry Pi
 published: True
 categories: []
 date: 2014-09-02 11:46:10
